@@ -1,0 +1,34 @@
+{
+    "name": "MoreClaps",
+    "author": "Pixel#5096",
+    "description": "Weapon conversion and more",
+    "license": "MIT",
+    "version": "1.0.0",
+    "checkUpdateUrl": "",
+    "autoUpdate": false,
+    "src": {
+        "src/modloader.js": "CacheModLoad"
+    },
+    "folders": [
+        "files/assort/ragfair",
+        "files/items",
+        "files/locales/en",
+        "files/templates"
+    ],
+    "filenames": [
+        "pxl_stm9_auto",
+        "pxl_vpo366_auto",
+        "pxl_mpx45",
+        "pxl_mpx45_30rnd",
+        "pxl_mpx45_40rnd",
+        "pxl_mpx45_20rnd",
+        "pxl_mpx45_50rnd",
+        "pxl_mpx45_upper",
+        "pxl_mpx45_165mmbarrel",
+        "pxl_mpx45_203mmbarrel",
+        "pxl_mpx45_4-5inbarrel",
+        "pxl_mpx45_6-5inbarrel",
+        "pxl_mpx45_10-5inbarrel",
+        "pxl_mpx45_14inbarrel"
+    ]
+}

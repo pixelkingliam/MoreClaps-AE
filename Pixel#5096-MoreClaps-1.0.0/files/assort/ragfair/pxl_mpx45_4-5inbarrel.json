@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_mpx45_4-5inbarrel",
+	"_tpl": "pxl_mpx45_4-5inbarrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
