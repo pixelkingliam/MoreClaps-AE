@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_vityaz921_10rnd",
+	"_tpl": "pxl_vityaz921_10rnd",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
