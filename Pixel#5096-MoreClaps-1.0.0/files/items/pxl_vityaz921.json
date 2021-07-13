@@ -291,7 +291,7 @@
         "isChamberLoad": true,
         "chamberAmmoCount": 1,
         "isBoltCatch": false,
-        "defMagType": "599860ac86f77436b225ed1a",
+        "defMagType": "pxl_vityaz921_30rnd",
         "defAmmo": "5a269f97c4a282000b151807",
         "shotgunDispersion": 0,
         "Chambers": [
