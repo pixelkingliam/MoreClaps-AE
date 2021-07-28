@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_toz12g",
+	"_tpl": "pxl_toz12g",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
