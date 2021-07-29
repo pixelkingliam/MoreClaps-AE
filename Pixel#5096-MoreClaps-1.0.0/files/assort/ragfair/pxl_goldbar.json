@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_goldbar",
+	"_tpl": "pxl_goldbar",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
