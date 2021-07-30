@@ -17,7 +17,7 @@
         "CreditsPrice": 69000,
         "ItemSound": "item_book",
         "Prefab": {
-            "path": "assets/content/items/ammo/boxes/item_ammo_box_545x39_30.bundle",
+            "path": "assets/content/items/ammo/boxes/item_ammo_box_545x39_120_pp.bundle",
             "rcid": ""
         },
         "UsePrefab": {

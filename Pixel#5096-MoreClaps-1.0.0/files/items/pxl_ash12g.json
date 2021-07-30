@@ -349,15 +349,15 @@
         "durabSpawnMin": 25,
         "durabSpawnMax": 90,
         "isFastReload": true,
-        "RecoilForceUp": 180,
-        "RecoilForceBack": 535,
+        "RecoilForceUp": 280,
+        "RecoilForceBack": 335,
         "Convergence": 1.5,
         "RecoilAngle": 90,
         "weapFireType": [
             "single"
         ],
         "RecolDispersion": 25,
-        "bFirerate": 650,
+        "bFirerate": 360,
         "Ergonomics": 55,
         "Velocity": 1.1,
         "bEffDist": 650,
