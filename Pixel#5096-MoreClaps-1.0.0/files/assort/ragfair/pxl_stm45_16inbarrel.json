@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_stm45_16inbarrel",
+	"_tpl": "pxl_stm45_16inbarrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

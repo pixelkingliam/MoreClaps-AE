@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_chems",
+	"_tpl": "pxl_chems",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

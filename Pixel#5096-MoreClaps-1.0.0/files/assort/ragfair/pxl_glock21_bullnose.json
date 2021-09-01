@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_glock21_bullnose",
+	"_tpl": "pxl_glock21_bullnose",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

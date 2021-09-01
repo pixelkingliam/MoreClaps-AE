@@ -73,7 +73,12 @@
                             "Shift": 0,
                             "Filter": [
                                 "5fb65424956329274326f316",
-                                "5fc4b992187fea44d52edaa9"
+                                "5fc4b992187fea44d52edaa9",
+                                "59bffc1f86f77435b128b872",
+                                "pxl_glock21_ddflash",
+                                "pxl_glock21_threadprot",
+                                "pxl_glock21_bullnose",
+                                "pxl_glock21_lonewolfcomp"
                             ]
                         }
                     ]
