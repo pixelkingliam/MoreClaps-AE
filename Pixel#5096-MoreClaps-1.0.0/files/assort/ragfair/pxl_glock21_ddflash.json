@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_glock21_ddflash",
+	"_tpl": "pxl_glock21_ddflash",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

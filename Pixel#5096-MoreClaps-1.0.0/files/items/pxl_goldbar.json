@@ -14,7 +14,7 @@
         "StackMaxSize": 1,
         "Rarity": "Superrare",
         "SpawnChance": 4,
-        "CreditsPrice": 69000,
+        "CreditsPrice": 109000,
         "ItemSound": "item_book",
         "Prefab": {
             "path": "assets/content/items/ammo/boxes/item_ammo_box_545x39_120_pp.bundle",

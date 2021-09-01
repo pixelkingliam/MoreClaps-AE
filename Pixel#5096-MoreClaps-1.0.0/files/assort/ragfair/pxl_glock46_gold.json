@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_glock46_gold",
+	"_tpl": "pxl_glock46_gold",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
