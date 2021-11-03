@@ -87,6 +87,18 @@
         "pxl_stm45_14inbarrel",
         "pxl_stm45_16inbarrel",
         "pxl_chems",
-        "pxl_m16a4"
+        "pxl_m16a4",
+        "pxl_m556",
+        "pxl_m556_5rndaics",
+        "pxl_m556_5rndpmag",
+        "pxl_m556_10rndaa",
+        "pxl_m556_10rndpmag",
+        "pxl_m556_10rndwyatt",
+        "pxl_m556_12rndmdt",
+        "pxl_m556_20rndaa",
+        "pxl_m556_508mmbarrel",
+        "pxl_m556_508mmbarrel2",
+        "pxl_m556_660mmbarrel",
+        "pxl_m556_660mmbarrel2"
     ]
 }
