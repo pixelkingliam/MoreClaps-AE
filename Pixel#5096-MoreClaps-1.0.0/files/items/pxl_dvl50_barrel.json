@@ -1,23 +1,23 @@
 {
     "_id": "pxl_dvl50_barrel",
-    "_name": "barrel_dvl-10_500mm",
+    "_name": "barrel_dvl-10_m2_660mm",
     "_parent": "555ef6e44bdc2de9068b457e",
     "_type": "Item",
     "_props": {
-        "Name": "barrel_dvl-10_500mm",
-        "ShortName": "barrel_dvl-10_500mm",
-        "Description": "barrel_dvl-10_500mm",
-        "Weight": 2.9,
+        "Name": "barrel_dvl-10_m2_660mm",
+        "ShortName": "barrel_dvl-10_m2_660mm",
+        "Description": "barrel_dvl-10_m2_660mm",
+        "Weight": 2.88,
         "BackgroundColor": "blue",
-        "Width": 3,
+        "Width": 4,
         "Height": 1,
         "StackMaxSize": 1,
-        "Rarity": "Superrare",
+        "Rarity": "Rare",
         "SpawnChance": 5,
-        "CreditsPrice": 40672,
+        "CreditsPrice": 55600,
         "ItemSound": "mod",
         "Prefab": {
-            "path": "assets/content/items/mods/barrels/barrel_dvl-10_500mm.bundle",
+            "path": "assets/content/items/mods/barrels/barrel_dvl-10_m2_660mm.bundle",
             "rcid": ""
         },
         "UsePrefab": {
@@ -39,7 +39,7 @@
         "HideEntrails": false,
         "RepairCost": 0,
         "RepairSpeed": 0,
-        "ExtraSizeLeft": 2,
+        "ExtraSizeLeft": 3,
         "ExtraSizeRight": 0,
         "ExtraSizeUp": 0,
         "ExtraSizeDown": 0,
@@ -62,14 +62,14 @@
         "Slots": [
             {
                 "_name": "mod_muzzle",
-                "_id": "5888945a2459774bf43ba386",
-                "_parent": "5888945a2459774bf43ba385",
+                "_id": "5888956924597752983e182e",
+                "_parent": "5888956924597752983e182d",
                 "_props": {
                     "filters": [
                         {
                             "Shift": 0,
                             "Filter": [
-                                
+                                "5888996c24597754281f9419"
                             ]
                         }
                     ]
@@ -79,20 +79,20 @@
                 "_proto": "55d30c4c4bdc2db4468b457e"
             },
             {
-                "_name": "mod_bipod",
-                "_id": "588894872459774e6610d115",
-                "_parent": "5888945a2459774bf43ba385",
+                "_name": "mod_handguard",
+                "_id": "5888958d24597752fe43a6f2",
+                "_parent": "5888956924597752983e182d",
                 "_props": {
                     "filters": [
                         {
                             "Shift": 0,
                             "Filter": [
-                                "5888961624597754281f93f3"
+                                "5888976c24597754281f93f5"
                             ]
                         }
                     ]
                 },
-                "_required": false,
+                "_required": true,
                 "_mergeSlotWithChildren": false,
                 "_proto": "55d30c4c4bdc2db4468b457e"
             }
@@ -101,11 +101,11 @@
         "CantRemoveFromSlotsDuringRaid": [],
         "Durability": 100,
         "Accuracy": 0,
-        "Recoil": -4,
+        "Recoil": -5,
         "Loudness": 0,
         "EffectiveDistance": 0,
-        "Ergonomics": -10,
-        "Velocity": 5.4,
+        "Ergonomics": -13,
+        "Velocity": 9.5,
         "RaidModdable": false,
         "ToolModdable": true,
         "BlocksFolding": false,
@@ -113,9 +113,9 @@
         "IsAnimated": false,
         "HasShoulderContact": false,
         "SightingRange": 0,
-        "CenterOfImpact": 0.022,
+        "CenterOfImpact": 0.013,
         "ShotgunDispersion": 1,
-        "IsSilencer": true
+        "IsSilencer": false
     },
     "_proto": "55d3632e4bdc2d972f8b4569"
 }

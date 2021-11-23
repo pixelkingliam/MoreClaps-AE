@@ -146,8 +146,7 @@
                         {
                             "Shift": 0,
                             "Filter": [
-                                "5888945a2459774bf43ba385",
-                                "5888956924597752983e182d"
+                                "pxl_dvl50_barrel"
                             ]
                         }
                     ]
@@ -213,8 +212,8 @@
         "durabSpawnMin": 25,
         "durabSpawnMax": 90,
         "isFastReload": true,
-        "RecoilForceUp": 130,
-        "RecoilForceBack": 650,
+        "RecoilForceUp": 460,
+        "RecoilForceBack": 910,
         "Convergence": 3,
         "RecoilAngle": 90,
         "weapFireType": [

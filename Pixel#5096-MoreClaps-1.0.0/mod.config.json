@@ -101,6 +101,12 @@
         "pxl_m556_508mmbarrel",
         "pxl_m556_508mmbarrel2",
         "pxl_m556_660mmbarrel",
-        "pxl_m556_660mmbarrel2"
+        "pxl_m556_660mmbarrel2",
+        "pxl_dvl50",
+        "pxl_dvl50_barrel",
+        "pxl_mk50",
+        "pxl_mk50_barrel",
+        "pxl_mk50_receiver",
+        "pxl_mk50_magazine"
     ]
 }
