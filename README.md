@@ -1,6 +1,6 @@
 # MoreClaps-AE
 Moreclaps is a Altered Escape Mod which add new weapons convertion
-Current version is Prerelease  3. "The Glock 4.6 Update"
+Current version is Prerelease  4. "The Sniper Update"
 
 # Weapon list
 * STM-9 In full auto
@@ -18,5 +18,7 @@ Current version is Prerelease  3. "The Glock 4.6 Update"
 * Glock 18C in 4.6x30mm HK (Custom Mags)
 * Glock 21 (Glock 21/Vector 45 mags)
 * M16A4 (5.56 Stanag mags)
+* DVL-50 (12.7x108mm ~ .50 BMG)
+* MK-50 (12.7x108mm ~ .50 BMG)
 # Barter items list
 * Gold bar

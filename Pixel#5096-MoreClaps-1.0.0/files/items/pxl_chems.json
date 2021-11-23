@@ -9,7 +9,7 @@
         "Description": "item_info_intelligence",
         "Weight": 0.23,
         "BackgroundColor": "blue",
-        "Width": 2,
+        "Width": 1,
         "Height": 1,
         "StackMaxSize": 1,
         "Rarity": "Rare",
