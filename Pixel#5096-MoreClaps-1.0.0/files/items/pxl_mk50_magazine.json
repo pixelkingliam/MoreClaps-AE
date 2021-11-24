@@ -14,7 +14,7 @@
         "StackMaxSize": 1,
         "Rarity": "Rare",
         "SpawnChance": 1,
-        "CreditsPrice": 7001,
+        "CreditsPrice": 8001,
         "ItemSound": "magazine_metal",
         "Prefab": {
             "path": "assets/content/items/mods/magazines/mag_mk18_sword_mjolnir_std_86x70_10.bundle",

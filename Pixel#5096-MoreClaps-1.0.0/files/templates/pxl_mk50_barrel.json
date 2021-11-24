@@ -1,5 +1,5 @@
 {
-    "Name": "24\" barrel for Mk-18 .338 LM",
-    "ShortName": "24\" Mk-18 .338 LM",
-    "Description": "A barrel for Mk-18 for .338 LM, 610 mm long."
+    "Id": "pxl_mk50_barrel",
+    "ParentId": "5b5f78e986f77447ed5636b1",
+    "Price": 83567
 }
