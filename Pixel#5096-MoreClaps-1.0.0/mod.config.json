@@ -107,6 +107,15 @@
         "pxl_mk50",
         "pxl_mk50_barrel",
         "pxl_mk50_receiver",
-        "pxl_mk50_magazine"
+        "pxl_mk50_magazine",
+        "pxl_mk54",
+        "pxl_mk54_upper",
+        "pxl_mk54_409mmbarrel",
+        "pxl_mk54_254mmbarrel",
+        "pxl_ar54",
+        "pxl_ar54_upper",
+        "pxl_ar54_10rndkac",
+        "pxl_ar54_20rndkac",
+        "pxl_ar54_20rndmag"
     ]
 }

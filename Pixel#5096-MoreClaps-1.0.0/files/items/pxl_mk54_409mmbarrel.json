@@ -1,0 +1,122 @@
+{
+    "_id": "pxl_mk54_409mmbarrel",
+    "_name": "barrel_ar15_adar_406mm",
+    "_parent": "555ef6e44bdc2de9068b457e",
+    "_type": "Item",
+    "_props": {
+        "Name": "Ствол 370мм для AR-15 и совместимых 5.56х45",
+        "ShortName": "370мм AR-15 5.56х45",
+        "Description": "Ствол для оружия на базе AR-15 под патрон 5.56х45 NATO длинной 370мм. Соответствует стандартному стволу для M4A1.\n",
+        "Weight": 1.13,
+        "BackgroundColor": "blue",
+        "Width": 3,
+        "Height": 1,
+        "StackMaxSize": 1,
+        "Rarity": "Rare",
+        "SpawnChance": 2,
+        "CreditsPrice": 35567,
+        "ItemSound": "mod",
+        "Prefab": {
+            "path": "assets/content/items/mods/barrels/barrel_mk47_cmmg_409mm_762x39.bundle",
+            "rcid": ""
+        },
+        "UsePrefab": {
+            "path": "",
+            "rcid": ""
+        },
+        "StackObjectsCount": 1,
+        "NotShownInSlot": false,
+        "ExaminedByDefault": false,
+        "ExamineTime": 1,
+        "IsUndiscardable": false,
+        "IsUnsaleable": false,
+        "IsUnbuyable": false,
+        "IsUngivable": false,
+        "IsLockedafterEquip": false,
+        "QuestItem": false,
+        "LootExperience": 20,
+        "ExamineExperience": 6,
+        "HideEntrails": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "ExtraSizeLeft": 3,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "MergesWithChildren": true,
+        "CanSellOnRagfair": true,
+        "CanRequireOnRagfair": true,
+        "ConflictingItems": [
+        ],
+        "FixedPrice": false,
+        "Unlootable": false,
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UnlootableFromSide": [],
+        "ChangePriceCoef": 1,
+        "AllowSpawnOnLocations": [],
+        "SendToClient": false,
+        "AnimationVariantsNumber": 0,
+        "DiscardingBlock": false,
+        "RagFairCommissionModifier": 1,
+        "Grids": [],
+        "Slots": [
+            {
+                "_name": "mod_muzzle",
+                "_id": "5c0e2f94d174af029f650d58",
+                "_parent": "5c0e2f94d174af029f650d56",
+                "_props": {
+                    "filters": [
+                        {
+                            "Shift": 0,
+                            "Filter": [
+                                "5c471bfc2e221602b21d4e17"
+                            ]
+                        }
+                    ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_gas_block",
+                "_id": "5c0e2f94d174af029f650d59",
+                "_parent": "5c0e2f94d174af029f650d56",
+                "_props": {
+                    "filters": [
+                        {
+                            "Shift": 0,
+                            "Filter": [
+                                "mk47_gasblock"
+                            ]
+                        }
+                    ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ],
+        "CanPutIntoDuringTheRaid": true,
+        "CantRemoveFromSlotsDuringRaid": [],
+        "Durability": 100,
+        "Accuracy": 0,
+        "Recoil": -4,
+        "Loudness": 0,
+        "EffectiveDistance": 0,
+        "Ergonomics": -19,
+        "Velocity": -6.48,
+        "RaidModdable": false,
+        "ToolModdable": true,
+        "BlocksFolding": false,
+        "BlocksCollapsible": false,
+        "IsAnimated": false,
+        "HasShoulderContact": false,
+        "SightingRange": 0,
+        "CenterOfImpact": 0.05,
+        "ShotgunDispersion": 1,
+        "IsSilencer": false
+    },
+    "_proto": "55d3632e4bdc2d972f8b4569"
+}
