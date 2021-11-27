@@ -116,6 +116,12 @@
         "pxl_ar54_upper",
         "pxl_ar54_10rndkac",
         "pxl_ar54_20rndkac",
-        "pxl_ar54_20rndmag"
+        "pxl_ar54_20rndmag",
+        "pxl_127x108_5rnd",
+        "pxl_127x108_5rndt",
+        "pxl_127x108_10rnd",
+        "pxl_127x108_10rndt",
+        "pxl_127x108_30rnd",
+        "pxl_127x108_30rndt"
     ]
 }

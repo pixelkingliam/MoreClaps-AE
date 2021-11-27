@@ -197,16 +197,16 @@
         "isFastReload": true,
         "RecoilForceUp": 315,
         "RecoilForceBack": 691,
-        "Convergence": 2,
+        "Convergence": 1.4,
         "RecoilAngle": 90,
         "weapFireType": [
             "single"
         ],
-        "RecolDispersion": 20,
+        "RecolDispersion": 25,
         "bFirerate": 275,
         "Ergonomics": 47,
         "Velocity": 0,
-        "bEffDist": 500,
+        "bEffDist": 900,
         "bHearDist": 80,
         "isChamberLoad": true,
         "chamberAmmoCount": 1,
@@ -238,13 +238,13 @@
                 "_proto": "55d4af244bdc2d962f8b4571"
             }
         ],
-        "CameraRecoil": 0.17,
+        "CameraRecoil": 0.22,
         "CameraSnap": 3.5,
         "ReloadMode": "ExternalMagazine",
-        "CenterOfImpact": 0.01,
-        "AimPlane": 0.16,
-        "DeviationCurve": 6,
-        "DeviationMax": 35,
+        "CenterOfImpact": 0,
+        "AimPlane": 0.2,
+        "DeviationCurve": 1,
+        "DeviationMax": 100,
         "Foldable": false,
         "Retractable": false,
         "TacticalReloadStiffnes": {

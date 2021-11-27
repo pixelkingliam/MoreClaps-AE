@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_127x108_5rndt",
+	"_tpl": "pxl_127x108_5rndt",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}
