@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_mk54_upper",
+	"_tpl": "pxl_mk54_upper",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

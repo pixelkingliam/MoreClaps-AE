@@ -1,0 +1,129 @@
+{
+    "_id": "pxl_mk50_barrel",
+    "_name": "barrel_mk18_610mm_86x70",
+    "_parent": "555ef6e44bdc2de9068b457e",
+    "_type": "Item",
+    "_props": {
+        "Name": "barrel_mk18_610mm_86x70",
+        "ShortName": "barrel_mk18_610mm_86x70",
+        "Description": "barrel_mk18_610mm_86x70",
+        "Weight": 1.5,
+        "BackgroundColor": "blue",
+        "Width": 4,
+        "Height": 1,
+        "StackMaxSize": 1,
+        "Rarity": "Superrare",
+        "SpawnChance": 2,
+        "CreditsPrice": 83567,
+        "ItemSound": "mod",
+        "Prefab": {
+            "path": "assets/content/items/mods/barrels/barrel_mk18_610mm_86x70.bundle",
+            "rcid": ""
+        },
+        "UsePrefab": {
+            "path": "",
+            "rcid": ""
+        },
+        "StackObjectsCount": 1,
+        "NotShownInSlot": false,
+        "ExaminedByDefault": false,
+        "ExamineTime": 1,
+        "IsUndiscardable": false,
+        "IsUnsaleable": false,
+        "IsUnbuyable": false,
+        "IsUngivable": false,
+        "IsLockedafterEquip": false,
+        "QuestItem": false,
+        "LootExperience": 20,
+        "ExamineExperience": 6,
+        "HideEntrails": false,
+        "RepairCost": 0,
+        "RepairSpeed": 0,
+        "ExtraSizeLeft": 3,
+        "ExtraSizeRight": 0,
+        "ExtraSizeUp": 0,
+        "ExtraSizeDown": 0,
+        "ExtraSizeForceAdd": false,
+        "MergesWithChildren": true,
+        "CanSellOnRagfair": true,
+        "CanRequireOnRagfair": true,
+        "ConflictingItems": [
+            "5c0e2f5cd174af02a012cfc9",
+            "5ae30db85acfc408fb139a05",
+            "55d459824bdc2d892f8b4573",
+            "5c78f2792e221600106f4683",
+            "5c78f26f2e221601da3581d1",
+            "5d00e0cbd7ad1a6c6566a42d",
+            "5d00f63bd7ad1a59283b1c1e"
+        ],
+        "FixedPrice": false,
+        "Unlootable": false,
+        "UnlootableFromSlot": "FirstPrimaryWeapon",
+        "UnlootableFromSide": [],
+        "ChangePriceCoef": 1,
+        "AllowSpawnOnLocations": [],
+        "SendToClient": false,
+        "AnimationVariantsNumber": 0,
+        "DiscardingBlock": false,
+        "RagFairCommissionModifier": 1,
+        "Grids": [],
+        "Slots": [
+            {
+                "_name": "mod_muzzle",
+                "_id": "5fc23678ab884124df0cd592",
+                "_parent": "5fc23678ab884124df0cd590",
+                "_props": {
+                    "filters": [
+                        {
+                            "Shift": 0,
+                            "Filter": [
+                                "5fc23636016cce60e8341b05"
+                            ]
+                        }
+                    ]
+                },
+                "_required": false,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+                "_name": "mod_gas_block",
+                "_id": "5fc23678ab884124df0cd593",
+                "_parent": "5fc23678ab884124df0cd590",
+                "_props": {
+                    "filters": [
+                        {
+                            "Shift": 0,
+                            "Filter": [
+                                "5fc2360f900b1d5091531e19"
+                            ]
+                        }
+                    ]
+                },
+                "_required": true,
+                "_mergeSlotWithChildren": false,
+                "_proto": "55d30c4c4bdc2db4468b457e"
+            }
+        ],
+        "CanPutIntoDuringTheRaid": true,
+        "CantRemoveFromSlotsDuringRaid": [],
+        "Durability": 100,
+        "Accuracy": 0,
+        "Recoil": -4,
+        "Loudness": 0,
+        "EffectiveDistance": 0,
+        "Ergonomics": -12,
+        "Velocity": -2.1,
+        "RaidModdable": false,
+        "ToolModdable": true,
+        "BlocksFolding": false,
+        "BlocksCollapsible": false,
+        "IsAnimated": false,
+        "HasShoulderContact": false,
+        "SightingRange": 0,
+        "CenterOfImpact": 0.017,
+        "ShotgunDispersion": 1,
+        "IsSilencer": false
+    },
+    "_proto": "55d3632e4bdc2d972f8b4569"
+}

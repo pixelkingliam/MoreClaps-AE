@@ -1,31 +1,5 @@
-Prerelease 3 BEF1.0.0-3
-*10 Aug 2021
-*165 Files Changed
-*1 Commit
-=Major changes=
-- Added Glock 46
-- Added Glock 46 Magazines
-- Added Glock 47C
-- Added Glock 21
-- Adjusted Gold bar value
-- Added STM-46
-- Added STM-46A
-- Added STM-45
-- Added STM-45A
-- Added Chems
-- Added M16A4
-=Minor Changes=
-- Added Glock 46 Variants of all the pre-existing G17 barrels
-- Added Glock 47C Variants of all pre-existing G18C barrels
-- Added a few Glock 46 variants of G17 muzzle devices 
-- Added Glock 21 Variants of all the pre-existing G17 barrels
-- Added a few Glock 21 variants of G17 muzzle devices (same list as g46)
-- Added STM-46 Upper
-- Added STM-46 Barrels (taken from STM-9)
-- Added STM-45 Upper
-- Added STM-45 Barrels (taken from STM-9)
-- Modified MPX-45 barrel's muzzle mods to allow glock 21 muzzles mods.
-==Commit History==
-Commit 1.
-165 Files changed
-10 Aug 2021
+(i got to stop deleting and making new changelogs lmao)
+Added 5 new weapons, R700P,DVL-50,MK-50,MK-54, and AR-54
+Changed Chems parent to medical supplies
+Updated README.md to a more readable form
+Updated Localization files

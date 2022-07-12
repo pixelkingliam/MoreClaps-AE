@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_m556_660mmbarrel",
+	"_tpl": "pxl_m556_660mmbarrel",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

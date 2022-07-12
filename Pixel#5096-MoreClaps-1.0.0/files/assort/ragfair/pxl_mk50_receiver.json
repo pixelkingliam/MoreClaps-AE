@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_mk50_receiver",
+	"_tpl": "pxl_mk50_receiver",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

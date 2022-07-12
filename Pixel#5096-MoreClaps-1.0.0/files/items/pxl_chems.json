@@ -1,7 +1,7 @@
 {
     "_id": "pxl_chems",
     "_name": "item_info_intelligence",
-    "_parent": "5448ecbe4bdc2d60728b4568",
+    "_parent": "57864c8c245977548867e7f1",
     "_type": "Item",
     "_props": {
         "Name": "item_info_intelligence",
@@ -9,7 +9,7 @@
         "Description": "item_info_intelligence",
         "Weight": 0.23,
         "BackgroundColor": "blue",
-        "Width": 2,
+        "Width": 1,
         "Height": 1,
         "StackMaxSize": 1,
         "Rarity": "Rare",
