@@ -115,6 +115,14 @@
         "pxl_127x108_10rnd",
         "pxl_127x108_10rndt",
         "pxl_127x108_30rnd",
-        "pxl_127x108_30rndt"
+        "pxl_127x108_30rndt",
+        "pxl_colt40",
+        "pxl_colt40_8rndcolt",
+        "pxl_colt40_13rnd",
+        "pxl_colt40_barrel",
+        "pxl_colt40_barrelt",
+        "pxl_ump40",
+        "pxl_ump40_barrel",
+        "pxl_ump40_30rnd"
     ]
 }
