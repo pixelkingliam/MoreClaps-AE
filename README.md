@@ -1,6 +1,6 @@
 # MoreClaps-AE
 Moreclaps is a Altered Escape Mod which add new weapons convertion
-Current version is Prerelease  4. "The Sniper Update"
+Current version is Prerelease  5. "The .40 S&W Update"
 
 # Weapon list
 * STM-9A ~ STM-9 In full auto
@@ -23,6 +23,7 @@ Current version is Prerelease  4. "The Sniper Update"
 * AR-54 ~ AR-Platform rifle in 7.62x54mmr (custom mags)
 * M1911 .40 ~ M1911 in .40 S&W (Custom Mags)
 * UMP40 ~ UMP40 in .40 S&W (Custom Mags)
+* Kriss Vector 40 ~ Kriss Vector 45 in .40 S&W (Glock 22 mags)
 # Barter items list
 * Gold bar
 * B-20 Base Chemicals

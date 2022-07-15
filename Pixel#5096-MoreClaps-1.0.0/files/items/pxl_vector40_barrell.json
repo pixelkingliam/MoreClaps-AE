@@ -1,23 +1,23 @@
 {
-    "_id": "pxl_colt40_barrelt",
-    "_name": "barrel_m1911a1_141mm_threaded_1143x23",
+    "_id": "pxl_vector40_barrell",
+    "_name": "barrel_vector_170mm_1143x23",
     "_parent": "555ef6e44bdc2de9068b457e",
     "_type": "Item",
     "_props": {
-        "Name": "barrel_m1911a1_141mm_threaded_1143x23",
-        "ShortName": "barrel_m1911a1_141mm_threaded_1143x23",
-        "Description": "barrel_m1911a1_141mm_threaded_1143x23\n",
-        "Weight": 0.12,
+        "Name": "barrel_vector_170mm_1143x23",
+        "ShortName": "barrel_vector_170mm_1143x23",
+        "Description": "barrel_vector_170mm_1143x23\n",
+        "Weight": 0.21,
         "BackgroundColor": "blue",
-        "Width": 1,
+        "Width": 2,
         "Height": 1,
         "StackMaxSize": 1,
         "Rarity": "Rare",
         "SpawnChance": 2,
-        "CreditsPrice": 11000,
+        "CreditsPrice": 10700,
         "ItemSound": "mod",
         "Prefab": {
-            "path": "assets/content/items/mods/barrels/barrel_m1911a1_141mm_threaded_1143x23.bundle",
+            "path": "assets/content/items/mods/barrels/barrel_vector_170mm_1143x23.bundle",
             "rcid": ""
         },
         "UsePrefab": {
@@ -62,15 +62,15 @@
         "Slots": [
             {
                 "_name": "mod_muzzle",
-                "_id": "5f3e889b6cda304dcc63405c",
-                "_parent": "5f3e77f59103d430b93f94c1",
+                "_id": "5fb653962b1b027b1f50bd05",
+                "_parent": "5fb653962b1b027b1f50bd03",
                 "_props": {
                     "filters": [
                         {
                             "Shift": 0,
                             "Filter": [
                                 "59bffc1f86f77435b128b872",
-                                "5fc4b97bab884124df0cd5e3"
+                                "5fc4b992187fea44d52edaa9"
                             ]
                         }
                     ]
@@ -84,10 +84,10 @@
         "CantRemoveFromSlotsDuringRaid": [],
         "Durability": 100,
         "Accuracy": 0,
-        "Recoil": -3,
+        "Recoil": -4,
         "Loudness": 0,
         "EffectiveDistance": 0,
-        "Ergonomics": -4,
+        "Ergonomics": -2,
         "Velocity": -0.78,
         "RaidModdable": false,
         "ToolModdable": true,
@@ -96,7 +96,7 @@
         "IsAnimated": false,
         "HasShoulderContact": false,
         "SightingRange": 0,
-        "CenterOfImpact": 0.29,
+        "CenterOfImpact": 0.19,
         "ShotgunDispersion": 1,
         "IsSilencer": false
     },
