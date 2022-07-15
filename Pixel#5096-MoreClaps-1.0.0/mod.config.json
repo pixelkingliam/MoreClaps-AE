@@ -123,6 +123,9 @@
         "pxl_colt40_barrelt",
         "pxl_ump40",
         "pxl_ump40_barrel",
-        "pxl_ump40_30rnd"
+        "pxl_ump40_30rnd",
+        "pxl_vector40",
+        "pxl_vector40_barrel",
+        "pxl_vector40_barrell"
     ]
 }

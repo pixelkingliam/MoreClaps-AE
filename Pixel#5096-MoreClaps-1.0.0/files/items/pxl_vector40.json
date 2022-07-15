@@ -307,7 +307,7 @@
         "durabSpawnMin": 25,
         "durabSpawnMax": 90,
         "isFastReload": true,
-        "RecoilForceUp": 55,
+        "RecoilForceUp": 57,
         "RecoilForceBack": 423,
         "Convergence": 3.4,
         "RecoilAngle": 80,
