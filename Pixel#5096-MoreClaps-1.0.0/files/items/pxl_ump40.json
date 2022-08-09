@@ -250,7 +250,7 @@
         "chamberAmmoCount": 1,
         "isBoltCatch": true,
         "defMagType": "pxl_ump40_30rnd",
-        "defAmmo": "5e81f423763d9f754677bf2e",
+        "defAmmo": "40SW_FMJ",
         "shotgunDispersion": 0,
         "Chambers": [
             {

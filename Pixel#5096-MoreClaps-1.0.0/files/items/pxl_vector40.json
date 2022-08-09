@@ -326,7 +326,7 @@
         "chamberAmmoCount": 1,
         "isBoltCatch": true,
         "defMagType": "5fb651b52b1b027b1f50bcff",
-        "defAmmo": "5e81f423763d9f754677bf2e",
+        "defAmmo": "40SW_FMJ",
         "shotgunDispersion": 0,
         "Chambers": [
             {
