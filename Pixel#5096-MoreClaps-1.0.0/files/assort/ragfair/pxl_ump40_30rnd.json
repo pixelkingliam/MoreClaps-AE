@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_ump40_30rnd",
+	"_tpl": "pxl_ump40_30rnd",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "pxl_vector40_barrell",
+	"_tpl": "pxl_vector40_barrell",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 99999999
+	}
+}

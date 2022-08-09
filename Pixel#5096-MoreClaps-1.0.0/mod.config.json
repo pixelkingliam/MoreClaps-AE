@@ -46,10 +46,10 @@
         "pxl_toz12g_5rnd",
         "pxl_ash12g",
         "pxl_goldbar",
-        "pxl_glock46_17rnd",
-        "pxl_glock46_21rnd",
-        "pxl_glock46_33rnd",
-        "pxl_glock46_50rnd",
+        "pxl_glock46_20rnd",
+        "pxl_glock46_25rnd",
+        "pxl_glock46_40rnd",
+        "pxl_glock46_60rnd",
         "pxl_glock46",
         "pxl_glock46_comp",
         "pxl_glock46_basic",
@@ -115,6 +115,17 @@
         "pxl_127x108_10rnd",
         "pxl_127x108_10rndt",
         "pxl_127x108_30rnd",
-        "pxl_127x108_30rndt"
+        "pxl_127x108_30rndt",
+        "pxl_colt40",
+        "pxl_colt40_8rndcolt",
+        "pxl_colt40_13rnd",
+        "pxl_colt40_barrel",
+        "pxl_colt40_barrelt",
+        "pxl_ump40",
+        "pxl_ump40_barrel",
+        "pxl_ump40_30rnd",
+        "pxl_vector40",
+        "pxl_vector40_barrel",
+        "pxl_vector40_barrell"
     ]
 }

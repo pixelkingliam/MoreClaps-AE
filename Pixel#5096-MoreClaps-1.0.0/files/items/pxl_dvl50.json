@@ -212,8 +212,8 @@
         "durabSpawnMin": 25,
         "durabSpawnMax": 90,
         "isFastReload": true,
-        "RecoilForceUp": 460,
-        "RecoilForceBack": 910,
+        "RecoilForceUp": 700,
+        "RecoilForceBack": 1300,
         "Convergence": 3,
         "RecoilAngle": 90,
         "weapFireType": [
@@ -229,7 +229,7 @@
         "chamberAmmoCount": 1,
         "isBoltCatch": true,
         "defMagType": "5888988e24597752fe43a6fa",
-        "defAmmo": "58dd3ad986f77403051cba8f",
+        "defAmmo": "5cde8864d7f00c0010373be1",
         "shotgunDispersion": 0,
         "Chambers": [
             {

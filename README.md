@@ -1,6 +1,6 @@
 # MoreClaps-AE
 Moreclaps is a Altered Escape Mod which add new weapons convertion
-Current version is Prerelease  4. "The Sniper Update"
+Current version is Prerelease  5. "The .40 S&W Update"
 
 # Weapon list
 * STM-9A ~ STM-9 In full auto
@@ -16,13 +16,14 @@ Current version is Prerelease  4. "The Sniper Update"
 * STM-45A ~ STM-9A in .45 ACP (Glock 21/Vector 45 mags)
 * Glock 46 ~ Glock 17 in 4.6x30mm HK (Custom Mags)
 * Glock 47C ~ Glock 18C in 4.6x30mm HK (Custom Mags)
-* Glock 21 (Glock 21/Vector 45 mags)
-* M16A4 (5.56 Stanag mags)
 * R700P ~ R700 in 5.56x45mm (Custom Mags)
 * DVL-50 ~ DVL in 12.7x108mm/.50 BMG (Single-Shot)
 * MK-50 ~ MK-18 in 12.7x108mm/.50 BMG (Custom Mags)
 * MK-54 ~ MK-47 in 7.62x54mmr (SVD mags)
 * AR-54 ~ AR-Platform rifle in 7.62x54mmr (custom mags)
+* M1911 .40 ~ M1911 in .40 S&W (Custom Mags)
+* UMP40 ~ UMP40 in .40 S&W (Custom Mags)
+* Kriss Vector 40 ~ Kriss Vector 45 in .40 S&W (Glock 22 mags)
 # Barter items list
 * Gold bar
 * B-20 Base Chemicals
