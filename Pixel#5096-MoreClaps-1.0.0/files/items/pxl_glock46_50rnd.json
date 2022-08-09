@@ -1,5 +1,5 @@
 {
-    "_id": "pxl_glock46_50rnd",
+    "_id": "pxl_glock46_60rnd",
     "_name": "mag_glock_sgmt_glock_drum_50_9x19_50",
     "_parent": "5448bc234bdc2d3c308b4569",
     "_type": "Item",
@@ -82,7 +82,7 @@
                 "_name": "cartridges",
                 "_id": "5a718f958dc32e00094b97e8",
                 "_parent": "5a718f958dc32e00094b97e7",
-                "_max_count": 50,
+                "_max_count": 60,
                 "_props": {
                     "filters": [
                         {

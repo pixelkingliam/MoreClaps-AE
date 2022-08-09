@@ -1,5 +1,5 @@
 {
-    "_id": "pxl_glock46_21rnd",
+    "_id": "pxl_glock46_25rnd",
     "_name": "mag_glock_magpul_pmag_21_gl9_9x19_21",
     "_parent": "5448bc234bdc2d3c308b4569",
     "_type": "Item",
@@ -82,7 +82,7 @@
                 "_name": "cartridges",
                 "_id": "5a718da68dc32e000d46d265",
                 "_parent": "5a718da68dc32e000d46d264",
-                "_max_count": 21,
+                "_max_count": 25,
                 "_props": {
                     "filters": [
                         {

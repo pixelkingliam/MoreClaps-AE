@@ -108,10 +108,10 @@
                         {
                             "AnimationIndex": -1,
                             "Filter": [
-                                "pxl_glock46_17rnd",
-                                "pxl_glock46_21rnd",
-                                "pxl_glock46_33rnd",
-                                "pxl_glock46_50rnd"
+                                "pxl_glock46_20rnd",
+                                "pxl_glock46_25rnd",
+                                "pxl_glock46_40rnd",
+                                "pxl_glock46_60rnd"
                             ]
                         }
                     ]
@@ -220,7 +220,7 @@
         "isChamberLoad": true,
         "chamberAmmoCount": 1,
         "isBoltCatch": true,
-        "defMagType": "pxl_glock46_17rnd",
+        "defMagType": "pxl_glock46_20rnd",
         "defAmmo": "5ba26835d4351e0035628ff5",
         "shotgunDispersion": 0,
         "Chambers": [
