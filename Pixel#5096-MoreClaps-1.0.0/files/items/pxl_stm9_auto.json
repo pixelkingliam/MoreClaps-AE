@@ -129,7 +129,7 @@
                         {
                             "Shift": 0,
                             "Filter": [
-                                "stm9_upper"
+                                "STM-9_Upper"
                             ]
                         }
                     ]
@@ -157,7 +157,8 @@
                                 "5c793fb92e221644f31bfb64",
                                 "5c793fc42e221600114ca25d",
                                 "591aef7986f774139d495f03",
-                                "591af10186f774139d495f0e"
+                                "591af10186f774139d495f0e",
+                                "STM-9_BufferTube"
                             ]
                         }
                     ]
